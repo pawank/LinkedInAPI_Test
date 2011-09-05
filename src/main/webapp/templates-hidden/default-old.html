@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns:lift="http://liftweb.net/">
+    <head>
+        <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+        <meta content="" name="description">
+        <meta content="" name="keywords">
+        <title>MarketingOffice</title>
+        <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+        <script type="text/javascript" src="/classpath/jquery.js" id="jquery"></script>
+        <script type="text/javascript" src="/classpath/json.js" id="json"></script>
+    </head>
+    <body>
+    <header>
+        <h1><span>MarketingOffice</span></h1>
+
+        </header>
+
+        <nav>
+            <lift:menu.builder></lift:menu.builder>
+        </nav>
+        <img alt="" id="ajax-loader" style="display:none" src="/assets/images/layout/ajax-loader.gif"></img>
+    <section>
+        <lift:bind name="content" />
+    </section>
+
+    <footer>
+    <p>www.efoundry.in</p>
+    </footer>
+
+</body>
+</html>

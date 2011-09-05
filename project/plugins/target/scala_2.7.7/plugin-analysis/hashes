@@ -1,0 +1,7 @@
+#Source Hashes
+#Mon Sep 05 19:35:06 IST 2011
+src_managed/sbt-netbeans-plugin-0.0.3/org/netbeans/plugins/sbtnb/AntScript.scala=499dbb95fe03649f3874a9668933e6373c23fdd8
+src_managed/sbt-netbeans-plugin-0.0.3/org/netbeans/plugins/sbtnb/NetbeansProjectProperties.scala=d37ed01889225490d0d5c77f1245342631aa7c64
+src_managed/sbt-netbeans-plugin-0.0.3/org/netbeans/plugins/SbtNetbeansPlugin.scala=d2580c94ceffbeb9ee28b162e9bec0030f90ea8b
+src_managed/sbt-netbeans-plugin-0.0.3/org/netbeans/plugins/ArchiveDestinationPath.scala=f7525c6eddffa15df87985f613e8895516131bb0
+src_managed/sbt-netbeans-plugin-0.0.3/org/netbeans/plugins/sbtnb/NetbeansProjectConfiguration.scala=d96e911871f817645301f586b7746cde1c676e82

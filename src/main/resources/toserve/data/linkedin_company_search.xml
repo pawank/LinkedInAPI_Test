@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<companies total="2">
+<company key="162479">
+<id>162479</id>
+<name>Apple Inc.</name>
+<universal-name>apple-inc</universal-name>
+<company-type>
+<code>C</code>
+<name>Public Company</name>
+</company-type>
+<website-url>http://www.apple.com/</website-url>
+<industry>Computer Hardware</industry>
+<status>
+<code>OPR</code>
+<name>Operating</name>
+</status>
+<employee-count-range>
+<code>I</code>
+<name>10001+</name>
+</employee-count-range>
+<specialties total="3">
+<specialty>Innovative product development</specialty>
+<specialty>world class operations</specialty>
+<specialty>Retail</specialty>
+</specialties>
+<locations total="1">
+<location>
+<address>
+<street1>1 Infinite Loop</street1>
+<city>Cupertino</city>
+<postal-code>95014</postal-code>
+</address>
+<contact-info>
+<phone1>408-974-1010</phone1>
+</contact-info>
+</location>
+</locations>
+<num-followers>161027</num-followers>
+<description>Apple designs Macs, the best personal computers in the world, along with Mac OS X, iLife, iWork, and professional software. Apple leads the digital music revolution with its iPods and iTunes online store. Apple is reinventing the mobile phone with its revolutionary iPhone and App Store, and has recently introduced its magical iPad which is defining the future of mobile media and computing devices.</description>
+</company>
+<company key="universal-name=linkedin">
+<id>1337</id>
+<name>LinkedIn</name>
+<universal-name>linkedin</universal-name>
+<company-type>
+<code>C</code>
+<name>Public Company</name>
+</company-type>
+<website-url>http://www.linkedin.com</website-url>
+<square-logo-url>http://media.linkedin.com/mpr/mpr/p/3/000/072/3db/1283f2d.png</square-logo-url>
+<industry>Internet</industry>
+<status>
+<code>OPR</code>
+<name>Operating</name>
+</status>
+<employee-count-range>
+<code>G</code>
+<name>1001-5000</name>
+</employee-count-range>
+<specialties total="8">
+<specialty>Online Professional Network</specialty>
+<specialty>Jobs</specialty>
+<specialty>People Search</specialty>
+<specialty>Company Search</specialty>
+<specialty>Address Book</specialty>
+<specialty>Advertising</specialty>
+<specialty>Professional Identity</specialty>
+<specialty>Group Collaboration</specialty>
+</specialties>
+<locations total="5">
+<location>
+<address>
+<street1>2029 Stierlin Court</street1>
+<city>Mountain View</city>
+<postal-code>94043</postal-code>
+</address>
+<contact-info>
+<phone1 />
+<fax />
+</contact-info>
+</location>
+<location>
+<address>
+<street1>2126 N 117th Ave</street1>
+<city>Omaha</city>
+<postal-code>68164</postal-code>
+</address>
+<contact-info>
+<phone1>(402) 452-2320</phone1>
+<fax />
+</contact-info>
+</location>
+<location>
+<address>
+<street1>15 Shady Brook Lane</street1>
+<city>Belmont</city>
+<postal-code>02478</postal-code>
+</address>
+<contact-info>
+<phone1 />
+<fax />
+</contact-info>
+</location>
+<location>
+<address>
+<street1>450 Sansome Street</street1>
+<city>San Francisco</city>
+<postal-code>94111</postal-code>
+</address>
+<contact-info>
+<phone1 />
+<fax />
+</contact-info>
+</location>
+<location>
+<address>
+<street1>15 Shady Brook Lane</street1>
+<city>Belmont</city>
+<postal-code>94301</postal-code>
+</address>
+<contact-info>
+<phone1 />
+<fax />
+</contact-info>
+</location>
+</locations>
+<num-followers>62925</num-followers>
+<description>LinkedIn takes your professional network online, giving you access to people, jobs and opportunities like never before. Built upon trusted connections and relationships, LinkedIn has established the world’s largest and most powerful professional network. Currently, more than 120 million professionals are on LinkedIn, including executives from all five hundred of the Fortune 500 companies, as well as a wide range of household names in technology, financial services, media, consumer packaged goods, entertainment, and numerous other industries. The company is publicly held and has a diversified business model with revenues coming from user subscriptions, advertising sales and hiring solutions.</description>
+</company>
+</companies>
+
+

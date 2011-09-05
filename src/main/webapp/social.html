@@ -1,0 +1,14 @@
+<lift:surround with="default" at="content">
+    <!--<lift:Dashboard />-->
+
+    <lift:snippet type="Social.checkAccess">
+    </lift:snippet>
+    <!--<span class="lift:LinkedInConnect.render">LinkedIn</span>-->
+    <lift:snippet type="Social.render">
+        <div id="message"></div>
+        <!--<a href="/linkedin"><img src="/assets/images/log-in-linkedin-large.png" /></a>-->
+        <in:login></in:login>
+        <span id="data"></span>
+        <in:data></in:data>
+    </lift:snippet>
+</lift:surround>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:lift="http://liftweb.net/">
+<head>
+    <!--[if lte IE 6]>
+    <meta http-equiv="refresh" content="0; url=/home/ie6"/>
+    <script type="text/javascript">
+        /* <![CDATA[ */
+		window.top.location = '/home/ie6';
+		/* ]]> */
+		</script>
+		<![endif]-->
+    <meta charset="utf-8">
+    <title>LinkedIn API test</title>
+
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="www.efoundry.in">
+
+    <link rel="shortcut icon" type="image/ico" href="favicon.ico">
+    <link rel="stylesheet" href="/classpath/ui/assets/css/style.css">
+
+    <script type="text/javascript" src="/classpath/jquery.js" id="jquery"></script>
+    <script type="text/javascript" src="/classpath/json.js" id="json"></script>
+    <script src="/classpath/ui/assets/js/scripts.js"></script>
+
+
+    <!--[if IE]>
+    <link rel="stylesheet" href="/classpath/ui/assets/css/ie.css">
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="/classpath/ui/assets/js/ie_scripts.js"></script>
+    <![endif]-->
+    <!--[if IE 6]>
+    <script src="/classpath/ui/assets/js/belatedpng.js"></script>
+    <script src="/classpath/ui/assets/js/ie6.js"></script>
+    <![endif]-->
+
+
+</head>
+<body id="home">
+<div class="whole branding">
+    <header>
+
+        <h1 id="logo" class="alpha grid_6 suffix_1">
+            <a href="/" title="LinkedInAPITest"><img src="/classpath/ui/assets/images/marketingoffice.png" width="230"
+                                                              height="49"
+                                                              alt="eFoundry.in's LinkedInAPITest"></a>
+
+        </h1>
+
+
+        <nav class="omega grid_17">
+            <lift:TestCond.loggedin>
+                <ul>
+                    <li><a href="/dashboard" title="Home &amp; Dashboard">Home</a></li>
+                    <li><a href="/setup/index" title="Setup">LinkedIn</a></li>
+                    <li><div class="lift:Logout.render"><logout:logoff><span>Logout</span></logout:logoff></div></li>
+                </ul>
+            </lift:TestCond.loggedin>
+
+        </nav>
+
+
+
+        <lift:snippet type="Banner:render" />
+                <lift:TestCond.loggedout>
+                    <div id="intro" class="alpha grid_24">
+                        <a href="about" title="About us">
+                            <img src="/classpath/ui/assets/images/slider-technology.jpg" width="950" height="365"
+                                 alt="LinkedInAPITest Features">
+                        </a>
+                    </div>
+        </lift:TestCond.loggedout>
+
+    </header>
+
+    <span class="clear"></span>
+</div>
+
+<div class="container">
+
+    <div id="contentdiv" class="grid_24">
+        <lift:bind name="content"/>
+    </div>
+    <span class="clear"></span>
+</div>
+<div class="whole branding">
+    <footer>
+        <article class="grid_6 suffix_1">
+            <h4>
+
+                <a href="newsletter" title="Join our newsletter">
+                    Join us on social networks
+                </a>
+            </h4>
+
+            <p><a href="https://www.facebook.com/pages/eFoundryin/254220541260546"><img
+                    src="http://images.efoundry.in/images/facebook.png" alt="eFoundry.in on Facebook"></img></a>&nbsp;&nbsp;<a
+                    href="http://twitter.com/eFoundry_in"><img src="http://img.efoundry.in/images/twitter.png"
+                                                               alt="Follow eFoundry.in Twitter"></img></a>&nbsp;&nbsp;<img
+                    src="http://images.efoundry.in/images/linkedin.png"
+                    alt="Connect with eFoundry.in on LinkedIn"></img></p>
+        </article>
+        <article class="grid_6 suffix_1">
+            <h4>
+                <a href="about/pricing-guide" title="Web design pricing guide">
+                    Pricing &amp; Order
+                </a>
+            </h4>
+
+            <p>Contact us at +91-8792136179 for pricing information.</p>
+        </article>
+        <p class="clear_both legal">
+            Copyright &copy; 2011 eFoundry.in
+        </p>
+
+    </footer>
+    <span class="clear"></span>
+</div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+A sample working application built using Lift 2.4-M3 and scala 2.9.0-1 (works with scala 2.8.1 too) is deployed on github.
+It has working example of LinkedIn API for profile search, people-search and company search with OAuth 1.0 authentication API implementation.
+MongoProtoUser is modified to have more fields for user registration process. Forgot Password is modified to use AJAX.
+
+It shows the following features of Lift to a new lift beginner-
+1. Usage of lift-mongo-record for inserting and accessing mongodb documents. Query handling is done using Rogue library from Foursquare.
+2. Usage of ProtoUser implementation as provided in Lift itself.
+3. Apache POI is used for Excel generation from the mongodb data.
+4. Scribe OAuth library is used for OAuth integration
+
+How to start the application?
+1. Clone repository from https://github.com/pawank/LinkedInAPI_Test
+2. Go to the directory where git repository is cloned.
+3. Create a new LinkedIn developer account if you don't have one
+4. Change the LinkedIn developer API access key and secret key in src/main/scala/code/linkedin/LinkedInConnect.scala
+5. Install mongodb and run the mongodb server using "mongod --dbpath /path/to/db/file"
+6. Do "sbt update" to update all the dependencies. You may need to add few JARS locally which are found in lib/ folder.
+7. Run "sbt ~jetty-run" to run Jetty at localhost:8080 port and see the application up and running
+8. Create a new user by clicking on 'Join Us'
+9. Use the credentials provided for the user to login into the application.
+10. Click on LinkedIn link in the menu to perform LinkedIn authentication using your existing LinkedIn account
+11. Perform API searches using the form shown on the localhost:8080/audience URL. Please note that it may have bugs but the idea is to show how to do LinkedIn integration

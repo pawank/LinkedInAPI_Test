@@ -1,0 +1,30 @@
+<!--
+Add in http header
+ name: x-li-auth-token
+  value: name:tDVi
+-->
+<mailbox-item>
+  <recipients>
+    <recipient>
+      <person path="/people/id=rvu55hEXaP">
+      <!--<person path="/people/email=adam@gmail.com">-->
+        <first-name>Adam</first-name>
+        <last-name>Coxen</last-name>
+      </person>
+    </recipient>
+  </recipients>
+  <subject>Invitation to Connect</subject>
+  <body>Please join my professional network on LinkedIn. I would like to explore business opportunity with you.
+  Thanks,
+  Pawan Kumar
+</body>
+  <item-content>
+    <invitation-request>
+      <connect-type>friend</connect-type>
+<authorization>
+        <name>NAME_SEARCH</name>
+        <value>oPq4</value> <!--this is available in API call and this should be the target person access code -->
+      </authorization>
+    </invitation-request>
+  </item-content>
+</mailbox-item>

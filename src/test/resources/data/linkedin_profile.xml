@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+  <id>WdEgzLj70S</id>
+  <first-name>Pawan</first-name>
+  <last-name>Kumar</last-name>
+  <headline>Co-Founder & CTO - eFoundry.in</headline>
+  <location>
+    <name>Bengaluru Area, India</name>
+  </location>
+  <industry>Computer Software</industry>
+  <num-connections>398</num-connections>
+  <summary>- 8 years experience in leadership roles at early stage start-ups, converting ideas into products
+
+- Extensive experience in India and abroad serving clients in travel, hospitality and e-commerce industry. Few of  the clients include British Airways, Marriot International, Taj Hotels, Oberoi Hotels, MakeMyTrip.com, and Travel Click
+
+- Conceptualized, engineered, developed and implemented several B2B & B2C products serving needs of travel industry in areas of Inventory  Distribution & Revenue Management, Price Intelligence, Online Visibility & Reputation Management and Social Media Marketing.
+
+- Served as CTO and Chief Architect at Rate Gain from 2007 to 2010. Company was ranked among Deloitte's fastest growing 50 technology companies in India consecutively for 3 years during my tenure.
+
+- Currently working on my own venture into software development & product engineering.</summary>
+  <specialties>- Product conceptualization, development and scaleup of internet based applications
+- Open source technologies
+- Project management
+- Team management, development and retention</specialties>
+  <interests>Long driving, travelling and trekking, programming and technology consulting.</interests>
+  <educations total="1">
+    <education>
+      <id>4194691</id>
+      <school-name>Indian Institute of Technology, Delhi</school-name>
+      <start-date>
+        <year>1998</year>
+      </start-date>
+      <end-date>
+        <year>2003</year>
+      </end-date>
+    </education>
+  </educations>
+  <phone-numbers total="1">
+    <phone-number>
+      <phone-type>mobile</phone-type>
+      <phone-number>+91-8792136179</phone-number>
+    </phone-number>
+  </phone-numbers>
+  <date-of-birth>
+    <year>1979</year>
+    <month>11</month>
+    <day>14</day>
+  </date-of-birth>
+  <main-address />
+  <picture-url>http://media.linkedin.com/mpr/mprx/0_lxZqPA_Ikz912u6P1OMwPPhFevPY2u6P1ZuwPP3zBKbm1HA1jMe4j1vRQR1T7wFxKysoyq1nM7WQ</picture-url>
+  <api-standard-profile-request>
+    <headers total="1">
+      <http-header>
+        <name>x-li-auth-token</name>
+        <value>name:tDVi</value>
+      </http-header>
+    </headers>
+  </api-standard-profile-request>
+  <public-profile-url>http://www.linkedin.com/in/pawan1979</public-profile-url>
+</person>

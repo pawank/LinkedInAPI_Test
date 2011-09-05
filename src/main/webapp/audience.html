@@ -1,0 +1,120 @@
+<div class="lift:surround?with=default;at=content">
+
+<div>
+<lift:snippet type="audience:userSocialProfile">
+<h2>Summary of my connections</h2>
+Total connections: <c:total>0</c:total>
+Total potential connections: <c:potential>0</c:potential>
+Total invitations sent so far: <c:invsent>0</c:invsent>
+</lift:snippet>
+  </div>
+
+<br/>
+	<div id="search_messages"></div>
+
+<lift:snippet type="Audience:searchFilterForm">
+<form method="post">
+	<div id="cmainhead">
+	<div id="c30">Keywords: <sff:keywords></sff:keywords></div>
+	<div id="c20">First Name: <sff:first_name></sff:first_name></div>
+	<div id="c20">Last Name: <sff:last_name></sff:last_name></div>
+	<div id="c20">Location: <sff:location></sff:location></div>
+	</div>
+	<div id="cmainhead">
+	<div id="c30">Company: <sff:company></sff:company></div>
+	<div id="c10">Role: <sff:role></sff:role></div>
+	<div id="c10">Size: <sff:comp_size></sff:comp_size></div>
+	<div id="c20">Interests: <sff:interests></sff:interests></div>
+	<div id="c20">Specialities: <sff:spl></sff:spl></div>
+	</div>
+	<div id="cmainhead">
+	<div id="c20">Degree: <sff:degree></sff:degree></div>
+	<div id="c30">Industry: <sff:business></sff:business></div>
+	<div id="c20">Company Search?: <sff:is_company_search></sff:is_company_search></div>
+	</div>
+
+	<sff:search>	<input type="submit" value="Search & Filter"  /></sff:search>
+</form>
+</lift:snippet>
+	<h2>All my connections</h2>
+<lift:snippet type="audience:download">
+<dow:excel>Download Excel</dow:excel>
+</lift:snippet>
+<br/><br/>
+	
+	<!--
+	<tr><th>Avatar</th><th>Name</th><th>Total Connections</th><th>Interests</th><th>Degree of Reach</th><th>Action</th></tr>
+	<lift:snippet type="audience:show">
+        <table>
+            <tr>
+		<td class="tdcls">
+		  <aud:picture><img src="#"/></aud:picture>
+		</td>
+		<td class="tdcls">
+		<aud:nameuser>a</aud:nameuser>
+		</td>
+		<td class="tdcls">
+		 <aud:conns>b</aud:conns>
+		</td>
+		<td class="tdcls">
+		  <aud:interests>c</aud:interests>
+		</td>
+		<td class="tdcls">
+		<aud:degree>d</aud:degree>
+		</td>
+		<td class="tdcls">
+		  <aud:msgtype><select id="msgtype"><option>1</option></select></aud:msgtype>
+		</td>
+            </tr>
+        </table>
+	</lift:snippet>
+	-->
+ <img src="/classpath/ui/assets/images/ajax-loader.gif" style="display:none; margin-bottom: 0px; margin-left: 5px" id="ajax-loader" alt="">
+        <!--
+	<div id="messages"></div>
+	<div id="cmainhead">
+	<div id="c5">PHOTO</div>
+	<div id="c20">FULL NAME</div>
+	<div id="c5">CONNECTIONS</div>
+	<div id="c5">DEGREE</div>
+	<div id="c5">MY CIRCLE</div>
+	<div id="c10">LOCATION</div>
+	<div id="c30">HEADLINE</div>
+	<div id="c10">STATUS</div>
+	<div id="c10">ACTIONS</div>
+	</div>
+	-->
+	<div id="messages"></div>
+
+	<div id="cmainhead">
+	<div id="c5">PHOTO</div>
+	<div id="c20">FULL NAME</div>
+	<div id="c5">CNT</div>
+	<div id="c5">DEG</div>
+	<div id="c5">CIRCLE</div>
+	<div id="c10">LOCATION</div>
+	<div id="c30">HEADLINE</div>
+	<div id="c10">SENT</div>
+	<div id="c10">ACTIONS</div>
+	</div>
+	<div id="data">
+	</div>
+	<lift:snippet type="audience:show">
+	<div id="cmain">
+	<div id="c5"><aud:picture><img src="#"/></aud:picture></div>
+	<div id="c20"><aud:nameuser></aud:nameuser></div>
+	<div id="c5"><aud:conns></aud:conns></div>
+	<div id="c5"><aud:degree></aud:degree></div>
+	<div id="c5"><aud:con_non></aud:con_non></div>
+	<div id="c10"><aud:loc></aud:loc></div>
+	<div id="c30"><aud:headline></aud:headline></div>
+	<div id="c10"><aud:invitation_sent></aud:invitation_sent></div>
+	<div id="c10"><aud:msgtype><m:v><select id="msgtype"><option>1</option></select>message</m:v></aud:msgtype></div>
+	</div>
+	</lift:snippet>
+	<!--
+	<lift:Audience.paginate>
+		<nav:first></nav:first> | <nav:prev></nav:prev> | <nav:allpages></nav:allpages>|  <nav:next></nav:next>  | <nav:last></nav:last> | <nav:records></nav:records>
+	</lift:Audience.paginate>
+	-->
+</div>

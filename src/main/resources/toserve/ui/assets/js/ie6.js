@@ -1,0 +1,1 @@
+DD_belatedPNG.fix('header h1 img, header nav a, footer img, .info_box, .success, .error');

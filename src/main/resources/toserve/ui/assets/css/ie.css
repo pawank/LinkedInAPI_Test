@@ -1,0 +1,8 @@
+* html .clearfix,
+*:first-child+html
+.clearfix{zoom:1}#content input[type="submit"],.button{padding:7px
+12px}section h3,
+blockquote p,
+aside blockquote p,
+#home #content article a,
+.promo_box a,input[type="submit"],.button,.success,.error{behavior:url("/assets/PIE.htc")}

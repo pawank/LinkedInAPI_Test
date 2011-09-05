@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<error>
+  <status>400</status>
+  <!--401 API is secure. Needs security Credentials-->
+  <timestamp>1312801925515</timestamp>
+  <request-id>LAZ47NUNDC</request-id>
+  <error-code>0</error-code>
+  <message>Unknown field {facets} in resource {Person}</message>
+</error>

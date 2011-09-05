@@ -1,0 +1,7 @@
+#Source Dependencies
+#Mon Sep 05 19:35:06 IST 2011
+src_managed/sbt-netbeans-plugin-0.0.3/org/netbeans/plugins/sbtnb/AntScript.scala=src_managed/sbt-netbeans-plugin-0.0.3/org/netbeans/plugins/SbtNetbeansPlugin.scala
+src_managed/sbt-netbeans-plugin-0.0.3/org/netbeans/plugins/sbtnb/NetbeansProjectProperties.scala=src_managed/sbt-netbeans-plugin-0.0.3/org/netbeans/plugins/SbtNetbeansPlugin.scala
+src_managed/sbt-netbeans-plugin-0.0.3/org/netbeans/plugins/SbtNetbeansPlugin.scala=
+src_managed/sbt-netbeans-plugin-0.0.3/org/netbeans/plugins/ArchiveDestinationPath.scala=src_managed/sbt-netbeans-plugin-0.0.3/org/netbeans/plugins/sbtnb/NetbeansProjectProperties.scala
+src_managed/sbt-netbeans-plugin-0.0.3/org/netbeans/plugins/sbtnb/NetbeansProjectConfiguration.scala=src_managed/sbt-netbeans-plugin-0.0.3/org/netbeans/plugins/SbtNetbeansPlugin.scala

@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company-search>
+<companies total="69684" count="10" start="0">
+<company>
+<id>1035</id>
+<name>Microsoft</name>
+<universal-name>microsoft</universal-name>
+<status>
+<code>OPR</code>
+<name>Operating</name>
+</status>
+<logo-url>http://media.linkedin.com/mpr/mpr/p/1/000/035/091/106c50c.png</logo-url>
+<website-url>http://www.microsoft.com/</website-url>
+<blog-rss-url>http://www.microsoft.com/presspass/rss/default.mspx</blog-rss-url>
+<twitter-id>msftnews</twitter-id>
+<employee-count-range>
+<code>I</code>
+<name>10001+</name>
+</employee-count-range>
+<industries total="1">
+<industry>
+<code>4</code>
+<name>Computer Software</name>
+</industry>
+</industries>
+<specialties total="14">
+<specialty>Business Software</specialty>
+<specialty>Design Tools</specialty>
+<specialty>Developer Tools</specialty>
+<specialty>Entertainment Products</specialty>
+<specialty>Hardware</specialty>
+<specialty>Home & Educational Software</specialty>
+<specialty>Mobile Devices & Software</specialty>
+<specialty>Search</specialty>
+<specialty>Advertising</specialty>
+<specialty>Servers</specialty>
+<specialty>Windows Operating System</specialty>
+<specialty>Windows Applications & Platforms</specialty>
+<specialty>Windows Live</specialty>
+<specialty>Cloud Computing</specialty>
+</specialties>
+<locations total="1">
+<location>
+<address>
+<street1>One Microsoft Way</street1>
+<city>Redmond</city>
+<postal-code>98052</postal-code>
+</address>
+<contact-info>
+<phone1>(800) MICROSOFT</phone1>
+<fax />
+</contact-info>
+</location>
+</locations>
+<description>AMAZING THINGS HAPPEN HERE!
+
+At Microsoft, we’re about helping customers realize their potential. From gamers to governments, moms to mega-corporations, we serve just about every kind of customer, all over the globe.
+
+Many people think Microsoft = software. We do do software—but we also do hardware, services, research, and more.  We work on PC operating systems and applications—like Windows and Windows Live. Products for IT professionals and developers—like Windows Server and Visual Studio. Online services such as Bing and MSN. Business solutions like Office and Exchange. And devices like Xbox, keyboards, webcams, and mice. We’re passionate about what we do.
+
+What this means if you come to work here is opportunity—to do things that make a real difference in millions, even billions, of lives. To reach your potential. So why not take a closer look at Microsoft? We think you’ll find that amazing things really do happen here.</description>
+<stock-exchange>
+<code>NMS</code>
+<name>NASDAQ</name>
+</stock-exchange>
+<founded-year>1975</founded-year>
+<num-followers>313959</num-followers>
+</company>
+<company>
+<id>1491</id>
+<name>SAS</name>
+<universal-name>sas</universal-name>
+<status>
+<code>OPR</code>
+<name>Operating</name>
+</status>
+<logo-url>http://media.linkedin.com/mpr/mpr/p/3/000/0b6/1e9/086ac04.png</logo-url>
+<website-url>http://www.sas.com</website-url>
+<blog-rss-url>http://feeds.feedburner.com/TheSascomMagazineBlog</blog-rss-url>
+<twitter-id>sassoftware</twitter-id>
+<employee-count-range>
+<code>I</code>
+<name>10001+</name>
+</employee-count-range>
+<industries total="1">
+<industry>
+<code>4</code>
+<name>Computer Software</name>
+</industry>
+</industries>
+<specialties total="11">
+<specialty>SAS</specialty>
+<specialty>BI</specialty>
+<specialty>Data Mining</specialty>
+<specialty>OLAP</specialty>
+<specialty>DW</specialty>
+<specialty>Analytics</specialty>
+<specialty>Business Analytics</specialty>
+<specialty>Predictive Analytics</specialty>
+<specialty>Statistics</specialty>
+<specialty>Customer Intelligence</specialty>
+<specialty>Enterprise Risk Management</specialty>
+</specialties>
+<locations total="1">
+<location>
+<address>
+<street1>100 SAS Campus Drive</street1>
+<city>Cary</city>
+<postal-code />
+</address>
+<contact-info>
+<phone1 />
+<fax />
+</contact-info>
+</location>
+</locations>
+<description>SAS is the leader in business analytics software and services, and the largest independent vendor in the business intelligence market. With innovative business applications supported by an enterprise intelligence platform, SAS helps 45,000 organizations improve performance and deliver value by making better decisions faster. Since 1976 SAS has been giving customers around the world THE POWER TO KNOW®.</description>
+<founded-year>1976</founded-year>
+<num-followers>31823</num-followers>
+</company>
+<company>
+<id>1231</id>
+<name>Symantec</name>
+<universal-name>symantec</universal-name>
+<status>
+<code>OPR</code>
+<name>Operating</name>
+</status>
+<logo-url>http://media.linkedin.com/mpr/mpr/p/2/000/076/2a3/0d8e77a.png</logo-url>
+<website-url>http://www.symantec.com</website-url>
+<blog-rss-url />
+<twitter-id />
+<employee-count-range>
+<code>I</code>
+<name>10001+</name>
+</employee-count-range>
+<industries total="1">
+<industry>
+<code>4</code>
+<name>Computer Software</name>
+</industry>
+</industries>
+<specialties total="5">
+<specialty>Information Storage, Management and Security</specialty>
+<specialty>Encryption</specialty>
+<specialty>Antivirus and Malware protection</specialty>
+<specialty>eDiscovery</specialty>
+<specialty>Identity Protection and Authentication</specialty>
+</specialties>
+<locations total="2">
+<location>
+<address>
+<street1>350 Ellis Street</street1>
+<city>Mountain View</city>
+<postal-code>94043</postal-code>
+</address>
+<contact-info>
+<phone1>+1 650-527-8000</phone1>
+<fax />
+</contact-info>
+</location>
+<location>
+<address>
+<street1>350 Brook Drive</street1>
+<city>Reading</city>
+<postal-code>RG26UH</postal-code>
+</address>
+<contact-info>
+<phone1 />
+<fax />
+</contact-info>
+</location>
+</locations>
+<description>Symantec helps consumers and organizations secure and manage their information-driven world. Our software and services protect against more risks at more points, more completely and efficiently, enabling confidence wherever information is used or stored.
+
+Symantec was founded in 1982 by visionary computer scientists. In that spirit, as technology changed so did Symantec. We are focused on providing security, storage and systems management solutions to help businesses and consumers secure and manage their information.</description>
+<stock-exchange>
+<code>NMS</code>
+<name>NASDAQ</name>
+</stock-exchange>
+<founded-year>1982</founded-year>
+<num-followers>37897</num-followers>
+</company>
+<company>
+<id>1115</id>
+<name>SAP</name>
+<universal-name>sap</universal-name>
+<status>
+<code>OPR</code>
+<name>Operating</name>
+</status>
+<logo-url>http://media.linkedin.com/mpr/mpr/p/3/000/09e/3b9/218a745.png</logo-url>
+<website-url>www.sap.com</website-url>
+<blog-rss-url>http://blogs.sap.com/feed/rss/</blog-rss-url>
+<twitter-id>SAP</twitter-id>
+<employee-count-range>
+<code>I</code>
+<name>10001+</name>
+</employee-count-range>
+<industries total="1">
+<industry>
+<code>4</code>
+<name>Computer Software</name>
+</industry>
+</industries>
+<specialties total="14">
+<specialty>ERP</specialty>
+<specialty>Financials</specialty>
+<specialty>Business Intelligence</specialty>
+<specialty>Procurement</specialty>
+<specialty>HCM</specialty>
+<specialty>SCM</specialty>
+<specialty>business</specialty>
+<specialty>planning</specialty>
+<specialty>efficiency</specialty>
+<specialty>sustainability</specialty>
+<specialty>innovation</specialty>
+<specialty>analytics</specialty>
+<specialty>reporting</specialty>
+<specialty>dashboarding</specialty>
+</specialties>
+<locations total="5">
+<location>
+<address>
+<street1>Dietmar-Hopp-Allee 16</street1>
+<city>Walldorf</city>
+<postal-code>69190</postal-code>
+</address>
+<contact-info>
+<phone1>+49 6227 747474</phone1>
+<fax />
+</contact-info>
+</location>
+<location>
+<address>
+<street1>4120 Yonge St</street1>
+<city>Toronto</city>
+<postal-code>M2P 2B8</postal-code>
+</address>
+<contact-info>
+<phone1 />
+<fax />
+</contact-info>
+</location>
+<location>
+<address>
+<street1>1001 Summit Boulevard</street1>
+<city>Atlanta</city>
+<postal-code>30319</postal-code>
+</address>
+<contact-info>
+<phone1>+1-404-943-2900</phone1>
+<fax>+1-404-943-2950</fax>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>SAP Labs, Inc.</street1>
+<city>Palo Alto</city>
+<postal-code>94304</postal-code>
+</address>
+<contact-info>
+<phone1>+1-650-849-4000</phone1>
+<fax />
+</contact-info>
+</location>
+<location>
+<address>
+<street1>3999 West Chester Pike</street1>
+<city>Newtown Square</city>
+<postal-code>19073</postal-code>
+</address>
+<contact-info>
+<phone1>+1-610-661-1000</phone1>
+<fax />
+</contact-info>
+</location>
+</locations>
+<description>As the world's leading provider of business software*, SAP delivers products and services which help accelerate business innovation for its customers. We believe that doing so will unleash growth and create significant new value – for our customers, SAP, and ultimately, entire industries and the economy at large - making the world a better place for people everywhere. 
+Today, more than 82,000 customers in more than 120 countries run SAP applications – from distinct solutions addressing the needs of small businesses and midsize companies to suite offerings for global organizations
+
+(*) SAP defines business software as comprising enterprise resource planning, business intelligence and related applications such as supply chain management, customer relationship management, product life-cycle management, and supplier relationship management.</description>
+<stock-exchange>
+<code>FRA</code>
+<name>Frankfurt Stock Exchange</name>
+</stock-exchange>
+<founded-year>1972</founded-year>
+<num-followers>67695</num-followers>
+</company>
+<company>
+<id>1372</id>
+<name>CA Technologies</name>
+<universal-name>ca-technologies</universal-name>
+<status>
+<code>OPR</code>
+<name>Operating</name>
+</status>
+<logo-url>http://media.linkedin.com/mpr/mpr/p/2/000/05b/3a5/1fa4f49.png</logo-url>
+<website-url>http://www.ca.com</website-url>
+<blog-rss-url />
+<twitter-id>http://twitter.com/cainc</twitter-id>
+<employee-count-range>
+<code>I</code>
+<name>10001+</name>
+</employee-count-range>
+<industries total="1">
+<industry>
+<code>4</code>
+<name>Computer Software</name>
+</industry>
+</industries>
+<specialties total="12">
+<specialty>Service Management</specialty>
+<specialty>Service Assurance</specialty>
+<specialty>Network Management</specialty>
+<specialty>Project and Portfolio Management</specialty>
+<specialty>Security Management</specialty>
+<specialty>Storage Management</specialty>
+<specialty>Data Modeling</specialty>
+<specialty>Application Performance Management</specialty>
+<specialty>Recovery Management</specialty>
+<specialty>Mainframe</specialty>
+<specialty>Cloud Computing</specialty>
+<specialty>Virtualization</specialty>
+</specialties>
+<locations total="4">
+<location>
+<address>
+<street1>One CA Plaza</street1>
+<city>Islandia</city>
+<postal-code>11749</postal-code>
+</address>
+<contact-info>
+<phone1>+1 800 225-5224</phone1>
+<fax>+1 631 342-6800</fax>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>115  IT Park, Nanakramguda</street1>
+<city>Hyderabad</city>
+<postal-code>500 019</postal-code>
+</address>
+<contact-info>
+<phone1>+91 40 6687 8000</phone1>
+<fax />
+</contact-info>
+</location>
+<location>
+<address>
+<street1>2000 Seaport Blvd</street1>
+<city>Redwood City</city>
+<postal-code>94063</postal-code>
+</address>
+<contact-info>
+<phone1 />
+<fax />
+</contact-info>
+</location>
+<location>
+<address>
+<street1>V Parku</street1>
+<city>Praha</city>
+<postal-code>4</postal-code>
+</address>
+<contact-info>
+<phone1>+ 420 226 205 800</phone1>
+<fax>+ 420 226 205 920</fax>
+</contact-info>
+</location>
+</locations>
+<description>CA Technologies (NASDAQ: CA) is a FORTUNE 500 company and is one of the largest independent software companies in the world. Headquartered in Islandia, New York, the company manages and secures IT environments and helps organizations deliver more flexible IT services.. Headed by CEO and chairman of the board, William E. McCracken, CA Technologies’ innovative products and services provide the insight and control essential for IT organizations to power business agility. The majority of the Global Fortune 500 relies on CA Technologies to manage evolving IT ecosystems. 
+
+For additional information, visit CA Technologies at www.ca.com. Follow CA Technologies on Twitter at www.twitter.com/cainc. 
+
+CA Technologies, which posted $4.4 billion USD in revenue for fiscal year 2010, maintains 150 offices in more than 45 countries. The company employs 13,200 people, including 5,900 engineers. CA Technologies holds more than 400 patents worldwide, and more than 700 patent applications are pending.</description>
+<stock-exchange>
+<code>NMS</code>
+<name>NASDAQ</name>
+</stock-exchange>
+<founded-year>1976</founded-year>
+<num-followers>23768</num-followers>
+</company>
+<company>
+<id>1480</id>
+<name>Adobe Systems</name>
+<universal-name>adobe-systems</universal-name>
+<status>
+<code>OPR</code>
+<name>Operating</name>
+</status>
+<logo-url>http://media.linkedin.com/mpr/mpr/p/1/000/01a/133/0cdfa89.png</logo-url>
+<website-url>http://www.adobe.com</website-url>
+<blog-rss-url>https://blogs.adobe.com/adobelife/</blog-rss-url>
+<twitter-id>adobecareers</twitter-id>
+<employee-count-range>
+<code>H</code>
+<name>5001-10000</name>
+</employee-count-range>
+<industries total="1">
+<industry>
+<code>4</code>
+<name>Computer Software</name>
+</industry>
+</industries>
+<specialties total="7">
+<specialty>software</specialty>
+<specialty>flash</specialty>
+<specialty>acrobat</specialty>
+<specialty>photoshop</specialty>
+<specialty>illustrator</specialty>
+<specialty>creative suite</specialty>
+<specialty>livecycle</specialty>
+</specialties>
+<locations total="1">
+<location>
+<address>
+<street1>345 Park Avenue</street1>
+<city>San Jose</city>
+<postal-code>95110-2704</postal-code>
+</address>
+<contact-info />
+</location>
+</locations>
+<description>Adobe is changing the world through digital experiences. We help our customers create, deliver, and optimize compelling content and applications — improving the impact of their communications, enhancing their brands and productivity, and ultimately bringing them greater business success. Together, we're turning ordinary interactions into more valuable digital experiences every day, across media and devices, anywhere, anytime. We offer our customers solutions in three critical endeavors: content authoring, customer experience management, and online marketing. With a reputation for excellence and a portfolio of many of the most respected and recognizable software brands, Adobe is one of the world’s largest and most diversified software companies.</description>
+<stock-exchange>
+<code>NMS</code>
+<name>NASDAQ</name>
+</stock-exchange>
+<founded-year>1982</founded-year>
+<num-followers>49186</num-followers>
+</company>
+<company>
+<id>1024</id>
+<name>HP Software</name>
+<universal-name>hp-software</universal-name>
+<status>
+<code>OPR</code>
+<name>Operating</name>
+</status>
+<logo-url>http://media.linkedin.com/mpr/mpr/p/3/000/040/36f/064417f.png</logo-url>
+<website-url>http://welcome.hp.com/country/us/en/prodserv/software.html</website-url>
+<blog-rss-url />
+<twitter-id />
+<employee-count-range>
+<code>I</code>
+<name>10001+</name>
+</employee-count-range>
+<industries total="1">
+<industry>
+<code>4</code>
+<name>Computer Software</name>
+</industry>
+</industries>
+<specialties total="12">
+<specialty>Quality Assurance</specialty>
+<specialty>Business Availability</specialty>
+<specialty>Performance Validation</specialty>
+<specialty>Saas</specialty>
+<specialty>SOA</specialty>
+<specialty>Information Management</specialty>
+<specialty>Records Management</specialty>
+<specialty>Data Management</specialty>
+<specialty>Backup and recovery</specialty>
+<specialty>Email Archiving</specialty>
+<specialty>HP TRIM</specialty>
+<specialty>HP Data Protector</specialty>
+</specialties>
+<locations total="0" />
+<description>Enterprise Solutions (software & services) focused on helping businesses ensure that every dollar invested in information technology, every resource allocated, and every application in development or production meets your business goals.
+
+It is an approach to IT management that reduces costs and produces business outcomes by helping your IT leaders:
+Allocate IT spend and resources based on business priorities
+Automate key processes across IT strategy, applications and operations
+Measure IT effectiveness and efficiency from a business perspective</description>
+<stock-exchange>
+<code>NYS</code>
+<name>New York Stock Exchange</name>
+</stock-exchange>
+<founded-year>1939</founded-year>
+<num-followers>23679</num-followers>
+</company>
+<company>
+<id>2988</id>
+<name>VMware</name>
+<universal-name>vmware</universal-name>
+<status>
+<code>OPR</code>
+<name>Operating</name>
+</status>
+<logo-url>http://media.linkedin.com/mpr/mpr/p/3/000/037/18b/05fe221.png</logo-url>
+<website-url>http://www.vmware.com</website-url>
+<blog-rss-url>http://vmware.simplefeed.net/rss?f=b44884f0-01dd-11dd-3161-0019bbc55f7f</blog-rss-url>
+<twitter-id>vmwarecareers</twitter-id>
+<employee-count-range>
+<code>H</code>
+<name>5001-10000</name>
+</employee-count-range>
+<industries total="1">
+<industry>
+<code>4</code>
+<name>Computer Software</name>
+</industry>
+</industries>
+<specialties total="9">
+<specialty>Cloud Infrastructure & Management</specialty>
+<specialty>Cloud Applications</specialty>
+<specialty>Datacenter Virtualization</specialty>
+<specialty>Desktop Virtualization</specialty>
+<specialty>Mobile Virtualization</specialty>
+<specialty>VMware vSphere</specialty>
+<specialty>VMware vCloud</specialty>
+<specialty>VMware View</specialty>
+<specialty>VMware Fusion for Mac</specialty>
+</specialties>
+<locations total="1">
+<location>
+<address>
+<street1>3401 Hillview Ave.</street1>
+<city>Palo Alto</city>
+<postal-code>94304</postal-code>
+</address>
+<contact-info>
+<phone1 />
+<fax />
+</contact-info>
+</location>
+</locations>
+<description>VMware (NYSE: VMW) is the global leader in virtualization and cloud infrastructure, two areas that consistently rank as top priorities among CIOs. VMware delivers award-winning, customer-proven solutions that accelerate IT by reducing complexity and enabling more flexible, agile service delivery. Our solutions help organizations of all sizes, lower costs, increase business agility and ensure freedom of choice.
+
+We are searching for people who are ready to accelerate, innovate and lead to join our team of more than 9,000 employees in 40+ locations worldwide working to develop innovative solutions that deliver the future of IT through cloud computing. Having the audacity to challenge constraints and problem-solve for tomorrow starts today, and it starts with you. Learn more at www.vmware.com/careers</description>
+<stock-exchange>
+<code>NYS</code>
+<name>New York Stock Exchange</name>
+</stock-exchange>
+<founded-year>1998</founded-year>
+<num-followers>28712</num-followers>
+</company>
+<company>
+<id>1666</id>
+<name>Intuit</name>
+<universal-name>intuit</universal-name>
+<status>
+<code>OPR</code>
+<name>Operating</name>
+</status>
+<logo-url>http://media.linkedin.com/mpr/mpr/p/1/000/014/141/22bceda.png</logo-url>
+<website-url>http://www.intuit.com</website-url>
+<blog-rss-url>INTUIT</blog-rss-url>
+<twitter-id>@intuitcareers</twitter-id>
+<employee-count-range>
+<code>H</code>
+<name>5001-10000</name>
+</employee-count-range>
+<industries total="1">
+<industry>
+<code>4</code>
+<name>Computer Software</name>
+</industry>
+</industries>
+<specialties total="1">
+<specialty>We solve unmet needs in ways that delight customers such that you would never dream of going back to the way you did things before</specialty>
+</specialties>
+<locations total="1">
+<location>
+<address>
+<street1>2632 Marine Way</street1>
+<city>Mountain View</city>
+<postal-code>94043</postal-code>
+</address>
+<contact-info>
+<phone1 />
+<fax />
+</contact-info>
+</location>
+</locations>
+<description>We started small in 1983 with Quicken personal finance software, simplifying a common household dilemma: balancing the family checkbook. Little more than two decades later, our revenue tops $3 billion and recognized as America's most-admired software company and one of the country's best places to work.
+
+Our flagship products – Quicken, QuickBooks and TurboTax – stand as testament to our commitment to revolutionize the way people manage their small businesses and personal finances. With the acquisition of Digital Insight in 2007, we began creating the next generation of online banking. We acquired Mint in 2009 and brought Mint's unique personal financial management approach to millions more consumers and small businesses. Most recently, we're working with leading health care companies to simplify the way millions of Americans manage their health and medical expenses.
+
+Now in our third decade, we're creating a greater array of "Right for Me" customer-driven products and services to help manage a broader array of small businesses. And we provide the most popular do-it-yourself payroll service in the United States.
+
+As our business and product lines grow beyond accounting and into new areas, we will build on our heritage of innovation. That's not just our history. It's our future.
+
+Our products and services assist customers in North America, Asia, Europe and Australia, with offices in the United States, Canada, the United Kingdom and India and Singapore.</description>
+<founded-year>1983</founded-year>
+<num-followers>14142</num-followers>
+</company>
+<company>
+<id>163755</id>
+<name>FactSet Research Systems</name>
+<universal-name>factset-research-systems</universal-name>
+<status>
+<code>OPR</code>
+<name>Operating</name>
+</status>
+<logo-url>http://media.linkedin.com/mpr/mpr/p/3/000/01d/1b7/2096008.png</logo-url>
+<website-url>http://www.factset.com</website-url>
+<blog-rss-url>http://www.factset.com/blogs/takingrisk/RSS</blog-rss-url>
+<twitter-id>factset</twitter-id>
+<employee-count-range>
+<code>G</code>
+<name>1001-5000</name>
+</employee-count-range>
+<industries total="1">
+<industry>
+<code>4</code>
+<name>Computer Software</name>
+</industry>
+</industries>
+<specialties total="2">
+<specialty>finance</specialty>
+<specialty>technology</specialty>
+</specialties>
+<locations total="19">
+<location>
+<address>
+<street1>601 Merritt 7</street1>
+<city>Norwalk</city>
+<postal-code>06851</postal-code>
+</address>
+<contact-info>
+<phone1>+1.203.810.1000</phone1>
+<fax>+1.203.810.1001</fax>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>Broadgate West II</street1>
+<city>London</city>
+<postal-code>2DQ</postal-code>
+</address>
+<contact-info>
+<phone1>+44.(0)20.3009.7000</phone1>
+<fax>+44.(0)20.3009.7001</fax>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>Dubai International Financial Centre</street1>
+<city>Dubai</city>
+</address>
+<contact-info>
+<phone1>+971(0) 4 401 9175</phone1>
+<fax>+971(0) 4 401 9297</fax>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>5th Floor, Block 3</street1>
+<city>Gachibowli</city>
+<postal-code>500 019</postal-code>
+</address>
+<contact-info>
+<phone1>+91 4044557000</phone1>
+<fax>+91 4044557001</fax>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>1402-1403, York House</street1>
+<city>15 Queens Road Central</city>
+</address>
+<contact-info>
+<phone1>+852.3710.6100</phone1>
+<fax>+852.3710.6103</fax>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>12, rue du Havre</street1>
+<city>Paris</city>
+<postal-code>75009</postal-code>
+</address>
+<contact-info>
+<phone1>01 76 71 10 00</phone1>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>Level 11, 25 Bligh St</street1>
+<city>Sydney</city>
+<postal-code>NSW 2000</postal-code>
+</address>
+<contact-info>
+<phone1>2 8223 0400</phone1>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>2002 McFarland Blvd East</street1>
+<city>Tuscaloosa</city>
+<postal-code>35404</postal-code>
+</address>
+<contact-info>
+<phone1>205.247.4200</phone1>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>Broadgate West II</street1>
+<city>London</city>
+<postal-code>EC2A 2DQ</postal-code>
+</address>
+<contact-info>
+<phone1>020 3009 7000</phone1>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>2950 31st St</street1>
+<city>Santa Monica</city>
+<postal-code>90405</postal-code>
+</address>
+<contact-info>
+<phone1>310.315.3100</phone1>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>East Grinstead House</street1>
+<city>Wood Street</city>
+<postal-code>RH19 1UZ</postal-code>
+</address>
+<contact-info>
+<phone1>0134 233 1300</phone1>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>Via Monte di Peita, 21</street1>
+<city>Milan</city>
+<postal-code>20121</postal-code>
+</address>
+<contact-info>
+<phone1>02 86 337 241</phone1>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>111 Congress Ave</street1>
+<city>Austin</city>
+<postal-code>78701</postal-code>
+</address>
+<contact-info>
+<phone1>512.651.4860</phone1>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>90 Park Ave</street1>
+<city>New York</city>
+<postal-code>10016</postal-code>
+</address>
+<contact-info>
+<phone1>212.476.4300</phone1>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>Gustav Mahlerplein 98</street1>
+<city>ITO Toren</city>
+<postal-code>1082 MA</postal-code>
+</address>
+<contact-info>
+<phone1>0207085700</phone1>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>Ote Center Building 14F</street1>
+<city>Chiyoda-ku</city>
+<postal-code>100-0004</postal-code>
+</address>
+<contact-info>
+<phone1>3 6268 5100</phone1>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>43, rue Lafayette</street1>
+<city>Paris</city>
+<postal-code>75009</postal-code>
+</address>
+<contact-info>
+<phone1>01 44 53 23 23</phone1>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>44, Avenue de Valvins</street1>
+<city>Avon</city>
+<postal-code>77210</postal-code>
+</address>
+<contact-info>
+<phone1>01 72 22 21 00</phone1>
+</contact-info>
+</location>
+<location>
+<address>
+<street1>An der Welle 3</street1>
+<city>Frankfurt am Main</city>
+<postal-code>60322</postal-code>
+</address>
+<contact-info>
+<phone1>069 770 616 00</phone1>
+</contact-info>
+</location>
+</locations>
+<description>FactSet is a leading provider of financial data and analytic applications for investment management and investment banking professionals around the globe.
+
+FactSet offers instant access to financial data and analytics to thousands of analysts, portfolio managers, and investment bankers at the world’s financial institutions.
+
+FactSet’s business is built on the creative use of technology and an unwavering dedication to client service. We remain on the cutting edge by continually developing and refining our software. Our tools enable clients to perform investment research at the most sophisticated level. We offer individual consultant contacts, 24-hour personal support, and dedication to our users for client service that is unsurpassed in the industry.
+
+FactSet is one of FORTUNE's "100 Best Companies to Work For" and has been listed as one of Forbes’ “200 Best Small Companies” for 13 consecutive years.
+
+Follow us on Twitter @FactSet. 
+Fan us on Facebook at www.facebook.com/factset.</description>
+<stock-exchange>
+<code>NYS</code>
+<name>New York Stock Exchange</name>
+</stock-exchange>
+<founded-year>1978</founded-year>
+<num-followers>4510</num-followers>
+</company>
+</companies>
+<facets total="1">
+<facet>
+<code>location</code>
+<name>Location</name>
+<buckets total="10">
+<bucket>
+<code>us:0</code>
+<name>United States</name>
+<count>21581</count>
+<selected>false</selected>
+</bucket>
+<bucket>
+<code>gb:0</code>
+<name>United Kingdom</name>
+<count>4400</count>
+<selected>false</selected>
+</bucket>
+<bucket>
+<code>in:0</code>
+<name>India</name>
+<count>3450</count>
+<selected>false</selected>
+</bucket>
+<bucket>
+<code>ca:0</code>
+<name>Canada</name>
+<count>2634</count>
+<selected>false</selected>
+</bucket>
+<bucket>
+<code>us:84</code>
+<name>San Francisco Bay Area</name>
+<count>2601</count>
+<selected>false</selected>
+</bucket>
+<bucket>
+<code>nl:0</code>
+<name>Netherlands</name>
+<count>1692</count>
+<selected>false</selected>
+</bucket>
+<bucket>
+<code>us:70</code>
+<name>Greater New York City Area</name>
+<count>1608</count>
+<selected>false</selected>
+</bucket>
+<bucket>
+<code>fr:0</code>
+<name>France</name>
+<count>1581</count>
+<selected>false</selected>
+</bucket>
+<bucket>
+<code>us:7</code>
+<name>Greater Boston Area</name>
+<count>1376</count>
+<selected>false</selected>
+</bucket>
+<bucket>
+<code>br:0</code>
+<name>Brazil</name>
+<count>1291</count>
+<selected>false</selected>
+</bucket>
+</buckets>
+</facet>
+</facets>
+</company-search>
+
+

@@ -1,0 +1,31 @@
+
+
+<lift:surround with="default" at="content">
+
+
+
+    <lift:TestCond.loggedout>
+        <h1>LOGIN</h1>
+        <img src="/classpath/ui/assets/images/ajax-loader.gif" style="display:none; margin-bottom: 0px; margin-left: 5px" id="ajax-loader" alt="">
+        <div id="message"></div>
+
+        <form class="lift:form.ajax">
+        <div class="lift:Login.performLogin">
+        <input class="login" type="text" name="username" placeholder="Enter your username"/>
+            <!--<login:username />-->
+            <span class="errormsg lift:Msg?id=username_error&errorClass=error">error</span>
+        <input class="login" type="password" name="password" placeholder="Enter your password"/>
+        <input type="submit" value="Login" name="login" />
+        </div>
+            </form>
+            <br/>
+
+        <div class="lift:Login.forgotpassword?id_name=forgot_password_link;id_msg=message">
+            <login:forgot_password>
+                <div id="forgot_password_link">Forgot Password?</div>
+            </login:forgot_password>
+        </div>
+        <div id="lost_password_id"></div>
+        <div id="home_or_join">No Account yet, now is the time to <a href="/user/joinus"><button id="joinus" type="button">Join Us</button></a></div>
+    </lift:TestCond.loggedout>
+</lift:surround>

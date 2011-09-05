@@ -1,0 +1,109 @@
+<lift:surround with="default" at="content">
+    <h1>JOIN US</h1>
+
+    <span id="message"></span>
+    <lift:Register.joinus form="POST" id="registerform">
+        <lift:Msgs></lift:Msgs>
+        <fieldset>
+            <legend>Login Details</legend>
+            <ol>
+                <li>
+                    <label for="username">Username</label>
+                    <r:username></r:username>
+
+                </li>
+                <li>
+                    <label for="password">Password</label>
+                    <r:password></r:password>
+
+                </li>
+                <li>
+                    <label for="cpassword">Confirm Password</label>
+                    <r:cpassword></r:cpassword>
+
+                </li>
+
+            </ol>
+        </fieldset>
+
+        <fieldset>
+            <legend>Personal Details</legend>
+            <ol>
+                <li>
+                    <label for="first_name">First Name</label>
+                    <r:first_name></r:first_name>
+                </li>
+                <li>
+                    <label for="last_name">Last Name</label>
+                    <r:last_name></r:last_name>
+                </li>
+                <li>
+                    <label for="email">Email Address</label>
+                    <r:email></r:email>
+                </li>
+                <li>
+                    <label for="mobile">Mobile</label>
+                    <r:mobile></r:mobile>
+                </li>
+                <li>
+                    <label for="address">Address</label>
+                    <r:address></r:address>
+                </li>
+                <li>
+                    <label for="country">Country</label>
+                    <r:country></r:country><img src="/classpath/ui/assets/images/ajax-loader.gif" style="display:none; margin-bottom: 0px; margin-left: 5px" id="ajax-loader" alt="">
+                </li>
+                <li>
+                    <label for="city">City</label>
+                    <r:city></r:city>
+                </li>
+            </ol>
+        </fieldset>
+
+        <fieldset>
+            <legend></legend>
+            <r:submit></r:submit>
+        </fieldset>
+    </lift:Register.joinus>
+
+
+    <!--
+    <section>
+            <header>
+                <h3>JOIN US</h3>
+            </header>
+
+                <article>
+                    <div class="full_row_section">
+                        <img src="/classpath/ui/assets/images/ajax-loader.gif" style="display:none; margin-bottom: 0px; margin-left: 5px" id="ajax-loader" alt="">
+                        <div id="message"></div>
+                        <lift:embed what="RegisterForm" ></lift:embed>
+                    </div>
+                </article>
+        </section>
+        -->
+    <!--
+
+    <h1>JOIN US</h1>
+    <img src="/classpath/ui/assets/images/ajax-loader.gif" style="display:none; margin-bottom: 0px; margin-left: 5px" id="ajax-loader" alt="">
+        <div id="message"></div>
+
+
+
+
+        <lift:Register.joinus form="POST" id="registerform">
+        Username: <r:username></r:username><br/>
+        Password: <r:password></r:password><br/>
+        Confirm Password: <r:cpassword></r:cpassword><br/>
+        First name: <r:first_name></r:first_name><br/>
+Last name: <r:last_name></r:last_name><br/>
+            Email Address: <r:email></r:email><br/>
+            Mobile: <r:mobile></r:mobile><br/>
+            Address: <r:address></r:address><br/>
+            Country: <r:country></r:country><br/>
+        <r:submit></r:submit>
+        </lift:Register.joinus>
+
+        -->
+
+</lift:surround>

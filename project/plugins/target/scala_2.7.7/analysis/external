@@ -1,0 +1,4 @@
+#External Dependencies
+#Mon Sep 05 19:40:43 IST 2011
+/downloads/LinkedInAPI_Test/project/boot/scala-2.7.7/lib/scala-library.jar=Plugins.scala
+/downloads/LinkedInAPI_Test/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.7/sbt_2.7.7-0.7.7.jar=Plugins.scala
